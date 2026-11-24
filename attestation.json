@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.culbute",
+  "repo": "NDesumeur/neodex-plugin-culbute-phone",
+  "version": "1.0.0",
+  "sha256": "576490b3db81b5569b65b9ba975208faf501f9f066223f6702d34dae34dfd715",
+  "approvedAt": "2026-11-24T15:56:21.867Z",
+  "neobase": ">=4.0.0",
+  "signature": "4v55PooFokGfVJn+BpPz99fJTPtk3elcNegZaJn9shG7GICicS4wUqJRehNyW7LoqRktY+JfOPEIx9mluUD+Bw=="
+}
